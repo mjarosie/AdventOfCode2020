@@ -2,4 +2,4 @@
 .vscode
 .bloop
 target/
-project/
+*.class
