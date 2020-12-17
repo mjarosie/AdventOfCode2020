@@ -3,3 +3,5 @@
 .bloop
 target/
 *.class
+
+!/template/part_1/.vscode
